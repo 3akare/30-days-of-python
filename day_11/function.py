@@ -30,9 +30,10 @@ def slope(x1, y1, x2, y2):
 def quadratic(a, b, c):
     zero = 0
     for x in range(-99999999, 99999999):
-        zero = (a*(x**2) + b*(x) + c)
-        if zero == 0:
-            print(x)
+        for y in range(-99999999, 99999999):
+            if (a * (x ^ 2) + (y * b) - c) == 0:
+                return (x, y)
+    return None
 
 def print_list(lint):
     for i in lint:
