@@ -89,9 +89,14 @@ def is_empty(n):
         print('Empty')
 
 def unique(lint, item):
-    if item in lint:
+    num = 0
+    for i in lint:
+        if item is i:
+            num += 1
+    if (num > 1):
         return False
     return True
+
 def same_data_type(lint, data):
     for i in lint:
         if not isinstance(i, data):
