@@ -58,4 +58,9 @@ def unique_rando():
     print(my_list)
 
 def shuffled_list(lint):
-    pass
+    k = len(lint) - 1
+    for i in range(len(lint)-1):
+        tmp = lint[i]
+        lint[i] = lint[k]
+        lint[k] = tmp
+    print(lint)
