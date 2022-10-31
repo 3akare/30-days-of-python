@@ -2,19 +2,19 @@
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction](./readme.md)|
-| 02  |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
-| 03  |  [Operators](./03_Day_Operators/03_operators.md)|
-| 04  |  [Strings](./04_Day_Strings/04_strings.md)|
-| 05  |  [Lists](./05_Day_Lists/05_lists.md)|
-| 06  |  [Tuples](./06_Day_Tuples/06_tuples.md)|
-| 07  |  [Sets](./07_Day_Sets/07_sets.md)|
-| 08  |  [Dictionaries](./08_Day_Dictionaries/08_dictionaries.md)|
-| 09  |  [Conditionals](./09_Day_Conditionals/09_conditionals.md)|
-| 10  |  [Loops](./10_Day_Loops/10_loops.md)|
-| 11  |  [Functions](./11_Day_Functions/11_functions.md)|
-| 12  |  [Modules](./12_Day_Modules/12_modules.md)|
-| 13  |  [List Comprehension](./13_Day_List_comprehension/13_list_comprehension.md)|
+| 01  |  [Introduction](./day_1/helloworld.py)|
+| 02  |  [Variables, Built-in Functions](./day_2/README.md)|
+| 03  |  [Operators](./day_3/README.md)|
+| 04  |  [Strings](./day_4/README.md)|
+| 05  |  [Lists](./day_5/README.md)|
+| 06  |  [Tuples](./day_6/README.md)|
+| 07  |  [Sets](./day_7/README.md)|
+| 08  |  [Dictionaries](./day_8/README.md)|
+| 09  |  [Conditionals](./day_9/README.md)|
+| 10  |  [Loops](./day_10/README.md)|
+| 11  |  [Functions](./day_11README.md)|
+| 12  |  [Modules](./day_12/README.md)|
+| 13  |  [List Comprehension](./day_13/README.md)|
 | 14  |  [Higher Order Functions](./14_Day_Higher_order_functions/14_higher_order_functions.md)|     
 | 15  |  [Python Type Errors](./15_Day_Python_type_errors/15_python_type_errors.md)| 
 | 16 |  [Python Date time](./16_Day_Python_date_time/16_python_datetime.md) |     
