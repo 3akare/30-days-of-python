@@ -15,7 +15,7 @@
 | 11  |  [Functions](./day_11README.md)|
 | 12  |  [Modules](./day_12/README.md)|
 | 13  |  [List Comprehension](./day_13/README.md)|
-| 14  |  [Higher Order Functions](./14_Day_Higher_order_functions/14_higher_order_functions.md)|     
+| 14  |  [Higher Order Functions](./day_14/README.md)|     
 | 15  |  [Python Type Errors](./15_Day_Python_type_errors/15_python_type_errors.md)| 
 | 16 |  [Python Date time](./16_Day_Python_date_time/16_python_datetime.md) |     
 | 17 |  [Exception Handling](./17_Day_Exception_handling/17_exception_handling.md)|    
